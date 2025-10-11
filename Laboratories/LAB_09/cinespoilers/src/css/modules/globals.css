@@ -1,0 +1,24 @@
+:root {
+  color-scheme: var(--color-scheme);
+  accent-color: var(--primary-color);
+  scroll-behavior: smooth;
+  scrollbar-color: var(--primary-color) var(--black-color);
+  scrollbar-width: thin;
+}
+
+.body {
+  margin: 0;
+  background-color: var(--black-color);
+  color: var(--white-color);
+  font-family: var(--primary-font);
+}
+
+#root {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main *[id] {
+  scroll-margin-top: calc(var(--size) * 32);
+}
