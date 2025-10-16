@@ -1,3 +1,7 @@
+## 🔗 Enlace a la Demostración de la API
+
+[Ver el video de validación CRUD en YouTube](https://www.youtube.com/watch?v=bNS4gms-2hQ)
+
 # 🎓 Learnify API: Gestor de Cursos Online
 
 `learnify_api` es una API REST desarrollada con Django y Django REST Framework que permite gestionar cursos online y sus respectivos instructores. A través de sus endpoints, se puede realizar un CRUD completo (Crear, Leer, Actualizar, Eliminar) para ambas entidades, así como realizar búsquedas filtradas.
@@ -19,7 +23,7 @@ Sigue estos pasos para clonar el repositorio y poner en marcha el servidor de de
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/tu_usuario/learnify_api.git](https://github.com/tu_usuario/learnify_api.git)
+    git clone 
     cd learnify_api
     ```
 
